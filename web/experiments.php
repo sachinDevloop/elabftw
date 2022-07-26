@@ -9,7 +9,7 @@
 declare(strict_types=1);
 
 namespace Elabftw\Elabftw;
-
+echo 'sachin';
 use Elabftw\Controllers\ExperimentsController;
 use Elabftw\Exceptions\DatabaseErrorException;
 use Elabftw\Exceptions\FilesystemErrorException;
